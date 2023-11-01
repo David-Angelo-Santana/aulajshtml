@@ -1,6 +1,6 @@
 # Projeto de Integração HTML e JavaScript - Proz Educação
 
-Este é um projeto de exemplo criado durante uma aula no Proz Educação para demonstrar a integração de HTML e JavaScript. O projeto inclui um arquivo HTML (`index.html`) e um arquivo JavaScript (`script.js`), e tem como objetivo ilustrar como capturar elementos do DOM e adicionar conteúdo a eles.
+Este é um projeto de exemplo criado durante uma aula no Proz Educação para demonstrar a integração de HTML e JavaScript. O projeto inclui um arquivo HTML (index.html) e um arquivo JavaScript (script.js) e tem como objetivo ilustrar como capturar elementos do DOM e adicionar conteúdo a eles.
 
 ## Estrutura do Projeto
 
@@ -26,11 +26,19 @@ Neste projeto, aprendemos:
 
 Para executar este projeto, basta abrir o arquivo `index.html` em um navegador da web. Você verá os elementos HTML preenchidos com o conteúdo adicionado pelo JavaScript.
 
-## Autor
+## Créditos
 
-- [David Angelo Santana](https://github.com/David-Angelo-Santana)
+- **Nome:** David Angelo Santana
+  - [GitHub](https://github.com/David-Angelo-Santana)
+  - [LinkedIn](https://www.linkedin.com/in/david-angelo-santana/)
+
+- **Professora do Curso: Juliana Sinnott**
+  - [LinkedIn](https://www.linkedin.com/in/julianasinnott/)
+  - [GitHub](https://github.com/julianasinnott)
+
+- **Instituição de Ensino: PROZ**
+  - [LinkedIn](https://www.linkedin.com/school/prozeducacao/)
 
 ## Licença
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE.md).
-
+Este projeto é licenciado sob a [Licença MIT](LICENSE).
